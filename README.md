@@ -7,4 +7,4 @@ I've worked with teams large and small to ship everything from code-generated lo
 
 - 💬 Ask me about Node.js, TypeScript, React and more.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I drove across Canada wearing a hot dog costume
+- 🌭 Fun fact: I drove across Canada wearing a hot dog costume
